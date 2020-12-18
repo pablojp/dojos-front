@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Requerimiento del ejercicio
+
+https://github.com/pablojp/dojos-front/wiki/Dojo-01
+
+
 ## Getting Started
 
 First, run the development server:
